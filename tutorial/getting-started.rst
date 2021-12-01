@@ -100,7 +100,7 @@
 最后，在浏览器当中打开 ``docs/build/html/index.html``
 。你会看到像下面这样的页面。
 
-.. figure:: /_image/lumache-first-light.png
+.. figure:: /tutorial/_image/lumache-first-light.png
    :width: 80%
    :align: center
    :alt: Freshly created documentation of Lumache
