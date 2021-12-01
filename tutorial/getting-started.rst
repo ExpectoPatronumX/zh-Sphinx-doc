@@ -108,5 +108,5 @@
    刚刚创建好的新的Lumache的文档。
 
 做好了！你已经使用Sphinx创建了你的第一个HTML文档，现在你可以开始
-:doc:`customizinf it </tutorial/first-steps>` 了。
+:doc:`customizinf it </tutorial/first-steps.rst>` 了。
 
