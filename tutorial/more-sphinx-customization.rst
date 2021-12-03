@@ -63,7 +63,7 @@ community <third-party-extensions>` 。
 
 有了这个变换，你将会看到你的HTML文档有了一个新的外观。
 
-.. fugure:: /tutorial/_image/lumache-furo.png
+.. figure:: /tutorial/_image/lumache-furo.png
    :width: 80%
    :align: center
    :alt: HTML documentation of Lumache with the Furo theme
